@@ -1,3 +1,5 @@
+## "Indeed, Allah will not change the condition of a people until they change what is in themselves." - Quran 13:11
+
 # 🎯 Motivational Reminder System
 
 A Python-based accountability tool that plays motivational audio (Quran ayats, speeches, etc.) when certain trigger words are detected in your typing. The system blocks all keyboard and mouse input until the audio finishes playing, ensuring you listen to the complete reminder.
