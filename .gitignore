@@ -1,0 +1,5 @@
+# .gitignore
+motivational_audio/
+*.mp3
+*.wav
+*.ogg
